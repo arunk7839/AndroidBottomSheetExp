@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidBottomSheetExp</string>
+    <string name="title">Payment Done Successfully.</string>
+    <string name="description">You have paid $60</string>
+</resources>
